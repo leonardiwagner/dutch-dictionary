@@ -1,5 +1,5 @@
 # dutch-dictionary
-=====
+---------------
 1. Install: `npm i dutch-dictionary`
 2. Use:
 ```javascript
