@@ -1,0 +1,16 @@
+{
+  "name": "dutch-dictionary",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardiwagner/dutch-dictionary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/leonardiwagner/dutch-dictionary/issues"
+  },
+  "homepage": "https://github.com/leonardiwagner/dutch-dictionary#readme"
+}
